@@ -1,3 +1,4 @@
 [submodule "Build"]
 	path = Build
 	url = https://github.com/ArGawlik/testSubmodule2.git
+	branch = main
